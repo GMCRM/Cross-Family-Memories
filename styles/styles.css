@@ -72,6 +72,8 @@ header{
 }
 
 .heading1{
+    border-top: solid black 5px;
+
     font-size:4em;
     text-align: center;
     font-weight: bold;
